@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  GroupSection.m
 //  ExpandTableView
 //
 //  Created by VicChan on 7/7/16.
 //  Copyright © 2016 VicChan. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "GroupSection.h"
 
-@interface ViewController : UIViewController
-
+@implementation GroupSection
 
 @end
-
