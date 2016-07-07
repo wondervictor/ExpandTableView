@@ -6,6 +6,12 @@
 [ExpandTableView](https://github.com/zhengwenming/ExpandTableView)
 
 
+### Demo:
+
+![](https://github.com/wondervictor/ExpandTableView/blob/master/expandTableView.gif?raw=true)
+
+
+
 **熟悉两个方法：**
 
 
