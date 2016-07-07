@@ -10,4 +10,15 @@
 
 @interface GroupSection : NSObject
 
+@property (nonatomic, strong) NSArray *groupData;
+
+@property (nonatomic, copy) NSString *groupName;
+
+@property (nonatomic, assign) BOOL isExpanded;
+
+@property (nonatomic, assign) NSInteger count;
+
+
+
+
 @end
